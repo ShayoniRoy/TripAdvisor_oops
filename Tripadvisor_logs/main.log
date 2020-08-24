@@ -1,0 +1,11 @@
+2020-08-24 10:42:07,910 +0530 [main] INFO  (MainTest.java:52) - HomePage of Tripadvisor.in
+2020-08-24 10:42:08,060 +0530 [main] INFO  (MainTest.java:63) - Searchings rentals in Nairobi
+2020-08-24 10:42:29,779 +0530 [main] INFO  (MainTest.java:86) - Check-in and Check-out dates are selected
+2020-08-24 10:42:32,688 +0530 [main] INFO  (MainTest.java:99) - Number of guests selected as 4
+2020-08-24 10:42:34,289 +0530 [main] INFO  (MainTest.java:105) - Sorting according to traveller's rating
+2020-08-24 10:42:36,093 +0530 [main] INFO  (MainTest.java:114) - Amenities selected as elevator access 
+2020-08-24 10:42:57,189 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2020-08-24 10:42:57,191 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2020-08-24 10:42:57,254 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-08-24 10:42:57,255 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-08-24 10:42:57,256 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/hp/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
